@@ -1,5 +1,9 @@
 this is a license.
 test pull at master branch.
 test pull and fetch.
+<<<<<<< HEAD
 1
 2
+=======
+3
+>>>>>>> 96d7c3919f3749d2ccce1460cc365e3e6185fd44
